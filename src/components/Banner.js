@@ -66,7 +66,7 @@ export const Banner = () => {
                   <h1 className=" text-[80px] " >
                     {`Hi! I'm Lahari, `}{" "} <br/>
                     <span
-                      className="txt-rotate text-[45px] text-[#4f7d8e]"
+                      className="txt-rotate text-[45px] text-[#af4eb4]"
                       dataPeriod="1000"
                       data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'
                     >

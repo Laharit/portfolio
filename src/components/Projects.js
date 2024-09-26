@@ -5,6 +5,7 @@ import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import todosimg from "../assets/img/Todos.png";
 import ehrimg from "../assets/img/ehr.png";
+import iotimg from "../assets/img/iot.jpeg";
 export const Projects = () => {
 
   const projects = [
@@ -27,7 +28,7 @@ export const Projects = () => {
     {
       title: "Smart Wrist Band for Women",
       description: "IoT",
-      imgUrl: todosimg,
+      imgUrl: iotimg,
     },
    
     

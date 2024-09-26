@@ -613,9 +613,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 26%;
 }
 .footer p {
-  font-weight: 400;
-  font-size: 14px;
-  color: #B8B8B8;
+  font-weight:bold;
+  font-size: 20px;
   letter-spacing: 0.5px;
   margin-top: 20px;
 }

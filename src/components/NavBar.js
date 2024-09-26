@@ -32,7 +32,7 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="https://drive.google.com/file/d/1SmGnK5goJfmPjvPlykzJOl1voS-1coXn/view?usp=drivesdk"  target="_blank"
+          <Navbar.Brand href="https://drive.google.com/file/d/1Z9cXSpPR0YlcZdwI8m4auLcpSafueW7J/view?usp=drivesdk"  target="_blank"
                   rel="noopener noreferrer">
             <img src={logo} alt="Logo" />
           </Navbar.Brand>

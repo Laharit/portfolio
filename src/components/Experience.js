@@ -69,7 +69,7 @@ export const Experience = () => {
 // Inline styles for the components
 const styles = {
   card: {
-    backgroundColor: "#4f7d8e", // Black background
+    backgroundColor: "#af4eb4", // Black background
     padding: "20px",
     borderRadius: "15px",
     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.2)",
